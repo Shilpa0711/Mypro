@@ -1,0 +1,2 @@
+/*Js */
+console.log("hello");
